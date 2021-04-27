@@ -1,8 +1,8 @@
 # fit_nerds
 
 ## Information related to staying fit - recipes, exercises, articles, etc. ##
-
-### Links - articles, recipes, etc. (so you don't have to dig for them in doc directories) ###
+## Links reside in the README for easy access. Documents, images, personal recipes, etc. reside in subdirectories.
+### Links - articles, recipes, etc. ###
 
 #### Articles  ####
 
