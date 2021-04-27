@@ -7,7 +7,7 @@
 #### Articles  ####
 
 *Exercise*
-* https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities
+* [Calories Burned in 30-minute activities](https://www.health.harvard.edu/diet-and-weight-loss/calories-burned-in-30-minutes-of-leisure-and-routine-activities)
 
 *Recipes*
 * TBD
